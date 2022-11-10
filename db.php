@@ -1,5 +1,5 @@
 <?php
-
+//a phpMyAdmin
     $dbhost = "localhost";
     $dbusu = "root";
     $dbpass = "";
